@@ -53,6 +53,11 @@ SELECT * FROM table1
 WHERE cond = 2;
 ```
 
+### DASHBOARD
+
+<img width="1213" height="689" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/253d72d9-7990-41e6-b263-9346ba1fdef1" />
+
+
 ### Results or Findings
 
 These data analysis results show several key insights: 
