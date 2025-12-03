@@ -29,7 +29,8 @@ Insurance data: The primary dataset used for this analysis is the "Insrance-comp
     - [Download here](https://MySQLWorkbench.com)
 - Power Bi- Creating Reports
     - [Download here](https://powerBI.com)
- 
+
+
   ### Data Cleaning or Preparation
 
   in the initial data preparation phase, the following task was performed:
